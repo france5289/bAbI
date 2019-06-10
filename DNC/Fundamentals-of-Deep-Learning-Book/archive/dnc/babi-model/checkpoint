@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/dchen/Desktop/bAbI/DNC/Fundamentals-of-Deep-Learning-Book/archive/dnc/babi-model/model.ckpt"
+all_model_checkpoint_paths: "/home/dchen/Desktop/bAbI/DNC/Fundamentals-of-Deep-Learning-Book/archive/dnc/babi-model/model.ckpt"
